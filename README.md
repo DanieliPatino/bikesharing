@@ -1,6 +1,6 @@
 # bikesharing
 
-[link to Tableau Dashboard](https://public.tableau.com/app/profile/danieli.pati.o/viz/Module_14Challenge_16484362420270/Deliverable3?publish=yes)
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/danieli.pati.o/viz/Module_14Challenge_16484362420270/Deliverable3?publish=yes)
 
 ##	Overview of the analysis:
 The purpose of this analysis was to determine if the bike-sharing program in New York City will work in Des Moines, Iowa. 
